@@ -1,6 +1,3 @@
-
-README.txt
-
 Project: Movie Recommendations Mashup
 
 Author: massimiliano.canosi
