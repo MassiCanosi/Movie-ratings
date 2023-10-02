@@ -1,6 +1,5 @@
-==============
+
 README.txt
-==============
 
 Project: Movie Recommendations Mashup
 
