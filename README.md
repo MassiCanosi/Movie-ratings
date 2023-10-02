@@ -7,8 +7,6 @@ Author: massimiliano.canosi
 Place: Milan
 Date: 2023-10-02
 
-=====================================================================
-
 Description:
 -------------
 This project takes you through the process of mashing up data from two different APIs to create movie recommendations. The project combines the power of the TasteDive API and the OMDB API to provide you with movie recommendations based on your preferences and detailed movie information, including scores from various review sites.
