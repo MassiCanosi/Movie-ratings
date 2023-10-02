@@ -1,8 +1,8 @@
 Project: Movie Recommendations Mashup
 
 Author: massimiliano.canosi
-Place: Milan
-Date: 2023-10-02
+, Place: Milan
+, Date: 2023-10-02
 
 Description:
 -------------
