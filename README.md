@@ -1,4 +1,5 @@
 Project: Movie Recommendations Mashup
+-------------
 
 Author: massimiliano.canosi
 , Place: Milan
